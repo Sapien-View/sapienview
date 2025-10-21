@@ -2237,7 +2237,7 @@ button {
   position: relative;
   padding-bottom: 55px; }
   .doctor-box-one .doctor-photo img {
-    width: 100%; }
+    width: 50%; }
   .doctor-box-one .doctor-information {
     position: absolute;
     left: 40px;
