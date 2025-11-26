@@ -660,6 +660,7 @@ button {
   position: relative;
   z-index: 999; }
   .template-header .header-navigation {
+    padding: 25px 0;
     display: -webkit-box;
     display: -ms-flexbox;
     display: flex;
